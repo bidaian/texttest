@@ -10,7 +10,7 @@
         android:id="@+id/label"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:fontFamily="@font/my_pua_font"
+        android:fontFamily="@font/swgeneric"
         android:textSize="28sp"
         android:text="@string/pua_label" />
 
@@ -19,7 +19,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:fontFamily="@font/my_pua_font"
+        android:fontFamily="@font/swgeneric"
         android:textSize="20sp"
         android:text="@string/pua_button" />
 </LinearLayout>
